@@ -4,27 +4,26 @@ footer:
     pages: search.md
     quick_links: []
   footer_background_color: "#232733"
-  background_image: "/v1604948186/clean-living-room_hshxuu.jpg"
-  logo: ''
-  footer_bio: Lorem ipsum dolor sit amet consectetur adipisicing elit. Delectus, eveniet!
-    Officia repellendus aliquam necessitatibus iure, porro voluptas magnam laboriosam
-    nesciunt
+  background_image: https://res.cloudinary.com/hungryram19/image/upload/v1605396004/konjay-shropshire/offmarketproperties/clean-living-room_gia0nd.jpg
+  logo: https://res.cloudinary.com/hungryram19/image/upload/v1605393863/konjay-shropshire/offmarketproperties/offmarketlogo_rjo5cm.png
+  footer_bio: Let us help you find your next home, whether you're a seller, buyer,
+    or investor, our team will guide you.
   enable_black_text: false
   disclaimer: |-
     The data and information contained within this website are for informational purposes. We try our best to keep all information up-to-date but encourage visitors to do their own research to determine the accuracy of material available on this website.
 
     While we strive to keep information accurate, we do not warrant the accuracy or completeness of the information, text, graphics, links or other items contained within these materials. Please visit our full terms and conditions and privacy policy for more information.
 branding:
-  site_title: Real Estate
-  logo: "/v1604948205/cropped-logotrans_qa7sde.png"
-  favicon: "/v1604948205/cropped-logotrans_qa7sde.png"
+  site_title: Offmarket Properties Depot
+  logo: https://res.cloudinary.com/hungryram19/image/upload/v1605393863/konjay-shropshire/offmarketproperties/offmarketlogo_rjo5cm.png
+  favicon: https://res.cloudinary.com/hungryram19/image/upload/v1605393863/konjay-shropshire/offmarketproperties/offmarketlogo_rjo5cm.png
 header:
-  top_header_color: "#181f24"
+  top_header_color: "#FD8501"
   header_background_color: "#FFFFFF"
   enable_white_text: false
   enable_white_text_top: true
 pages:
-  image: "/v1604948756/mainimage_i5qltw.jpg"
+  image: https://res.cloudinary.com/hungryram19/image/upload/v1605396004/konjay-shropshire/offmarketproperties/clean-living-room_gia0nd.jpg
 sidebar:
   sidebar:
   - template: side-blog-category
@@ -33,7 +32,7 @@ sidebar:
     latest_posts: ''
   single_property_sidebar: false
 colors:
-  button_background_color: "#0073E1"
+  button_background_color: "#FD8501"
   button_text_color: "#FFFFFF"
-  links: "#EBBA7C"
-  accent: "#2EC8F7"
+  links: "#FD8501"
+  accent: "#FD8501"
