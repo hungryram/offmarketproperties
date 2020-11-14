@@ -1,25 +1,25 @@
 ---
-company_name: Real Estate Company
+company_name: Offmarket Properties Depot
 social_media:
-  instagram: https://instagram.com
-  twitter: http://twitter.com/denisefernander
-  facebook: https://facebook.com
-  pinterest: wewe
-  yelp: https://www.yelp.com/biz/pathfinders-carpet-cleaning-pasadena
+  instagram: ''
+  twitter: ''
+  facebook: ''
+  pinterest: ''
+  yelp: ''
 contact_information:
-  phone: "5555555555"
-  name: Demo Account
-  cell: 658-445-6326
-  address: '412 Westside Rd. '
-  email: ram@hungryram.com
-  license: BRE 8431654
-  city: Riverside
+  phone: ''
+  name: Konjay Shropshire
+  cell: ''
+  address: ''
+  email: ''
+  license: ''
+  city: ''
   state: CA
-  zip_code: "92882"
+  zip_code: ''
 search_engine_optimization:
-  title_tag: Real Estate Theme
-  meta_description: No page builders or drag and drop. Experience a new technology
-    stack
+  title_tag: Offmarket Properties
+  meta_description: Let us help you find your next home, whether you're a seller,
+    buyer, or investor, our team will guide you.
   twitter_card:
     twitter_username: ''
   facebook:
