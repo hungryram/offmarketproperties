@@ -18,7 +18,6 @@
     <script type="text/javascript" src="https://{{ $.Site.Data.idx.incomplete_subdomain }}.idxhome.com/site/listing/gallery/slider/{{ $.Site.Data.idx.ihf_client_id }}?columns=3&amp;rows=1&amp;effect=fade&amp;auto=false"></script>
     {{ else }}
     <script type="text/javascript" src="https://{{ $.Site.Data.idx.complete_subdomain }}/site/listing/gallery/slider/{{ $.Site.Data.idx.ihf_client_id }}?columns=3&amp;rows=1&amp;effect=fade&amp;auto=false"></script>
-    
     {{ end }}
 </div>
 </div>
@@ -186,7 +185,7 @@
       <div class="columns is-vcentered">
         {{ if .image }}
         <div class="column has-text-centered">
-          <img src="{{ $.Site.Params.cloudinary_url }}{{ .image }}" alt="{{ .image_alt_tag }}" width="{{ .image_width }}">
+          <img src="{{ .image }}" alt="{{ .image_alt_tag }}" width="{{ .image_width }}">
         </div>
         {{ end }}
         <div class="column content{{ if .image }}{{ else }} has-text-centered is-half is-offset-one-quarter{{ end }}">
