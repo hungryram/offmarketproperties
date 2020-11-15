@@ -29,7 +29,7 @@ home_sections:
   heading: Have any questions?
   body: Feel free to reach out to us for any questions or concerns you have. We'll
     reply back shortly
-  background_image: ''
+  background_image: https://res.cloudinary.com/hungryram19/image/upload/v1605396004/konjay-shropshire/offmarketproperties/clean-living-room_gia0nd.jpg
   form:
     heading: Send a message
     body: ''
