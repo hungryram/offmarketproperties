@@ -18,6 +18,25 @@ home_sections:
   image: https://res.cloudinary.com/hungryram19/image/upload/v1605393863/konjay-shropshire/offmarketproperties/offmarketlogo_rjo5cm.png
   image_alt_tag: Offmarket Properties
   image_width: '400'
+- template: tiles
+  heading: ''
+  body: ''
+  tile_one:
+    heading: Properties
+    image: ''
+    link: "/listings"
+  tile_two:
+    image: ''
+    link: "/contact"
+    heading: Contact
+  tile_three:
+    image: ''
+    link: "/home-value-request"
+    heading: Home Value
+  tile_four:
+    heading: Feature Four
+    image: ''
+    link: "/team"
 - template: text-and-contact-form
   heading: Have any questions?
   body: Feel free to reach out to us for any questions or concerns you have. We'll
@@ -28,25 +47,6 @@ home_sections:
     body: ''
   background_color: "#424242"
   enable_white_text: true
-- template: tiles
-  heading: Featured Areas
-  body: View our best homes
-  tile_one:
-    heading: Feature One
-    image: ''
-    link: https://google.com
-  tile_two:
-    heading: Feature Two
-    image: ''
-    link: "/contact"
-  tile_three:
-    heading: Feature Three
-    image: ''
-    link: "/contact"
-  tile_four:
-    heading: Feature Four
-    image: ''
-    link: "/team"
 - template: home-blog
   heading: Our Blog
   body: Keep up with latest posts
