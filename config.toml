@@ -11,23 +11,20 @@ parent = "Resources"
 url = "/blog"
 weight = 4
 [[menu.main]]
-name = "Resources"
-weight = 4
-[[menu.main]]
 name = "Home Value Request"
 parent = "Sellers"
 url = "/home-value-request"
 weight = 1
 [[menu.main]]
-name = "Sellers"
-weight = 3
+name = "Home"
+url = "/"
+weight = 1
 [[menu.main]]
 name = "Buyers"
 weight = 2
 [[menu.main]]
-name = "Home"
-url = "/"
-weight = 1
+name = "Sellers"
+weight = 3
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [taxonomies]
