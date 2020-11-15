@@ -6,7 +6,6 @@ name = "Properties"
 weight = 2
 [menu.main]
 name = "Properties"
-parent = "Buyers"
-weight = 1
+weight = 2
 
 +++

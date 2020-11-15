@@ -5,6 +5,10 @@ summaryLength = 20
 name = "Home"
 url = "/"
 weight = 1
+[[menu.main]]
+name = "Home"
+url = "/"
+weight = 1
 [outputs]
 home = ["HTML", "RSS", "JSON"]
 [taxonomies]

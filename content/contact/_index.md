@@ -7,6 +7,6 @@ title_tag = "Contact the Team"
 [menu.footer]
 weight = 3
 [menu.main]
-weight = 5
+weight = 4
 
 +++
