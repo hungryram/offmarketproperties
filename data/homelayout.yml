@@ -34,9 +34,9 @@ home_sections:
     link: "/home-value-request"
     heading: Home Value
   tile_four:
-    heading: Feature Four
+    heading: Home Value
     image: ''
-    link: "/team"
+    link: "/home-value-request"
 - template: text-and-contact-form
   heading: Have any questions?
   body: Feel free to reach out to us for any questions or concerns you have. We'll
